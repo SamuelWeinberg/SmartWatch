@@ -1,13 +1,13 @@
-// import React, from 'react';
+
 import './App.css';
-import {Btn} from './compontots/Btn'
+import {Watch} from './compontots/watch'
 
 
 
 function App() {
  return (
   <div>
-  <Btn/>
+  <Watch/>
   </div>
  )
 }
